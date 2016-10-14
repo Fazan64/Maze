@@ -11,4 +11,5 @@ The UI was implemented using Unity's new GameObject-based UI system, introduced 
 ## Pre-built versions
 
 [Windows build](https://github.com/Fazan64/Maze/raw/master/Builds/WinBuild.zip)
+
 [macOS build](https://github.com/Fazan64/Maze/raw/master/Builds/MacBuild.zip)
